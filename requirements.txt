@@ -8,7 +8,7 @@ flask-paginate
 flask_restful
 flask_cors # For the Chrome extension to operate
 # janus # No longer needed - using pure threading.Queue for multi-loop support
-flask_wtf~=1.2
+flask_wtf~=1.3
 flask-socketio>=5.5.0,<6
 python-socketio>=5.11.0,<6
 python-engineio>=4.9.0,<5
